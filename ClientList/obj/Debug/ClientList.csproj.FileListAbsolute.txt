@@ -1,0 +1,13 @@
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\bin\Debug\Customers.mdf
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\bin\Debug\Customers_log.ldf
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\bin\Debug\ClientList.exe.config
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\bin\Debug\ClientList.exe
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\bin\Debug\ClientList.pdb
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.csprojAssemblyReference.cache
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.frmMain.resources
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.Properties.Resources.resources
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.csproj.GenerateResource.cache
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.csproj.CoreCompileInputs.cache
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.exe
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.pdb
+E:\Programming_Tasks\C# Projects\ClientList\ClientList\obj\Debug\ClientList.CustomControls.UnderlineTextbox.resources
