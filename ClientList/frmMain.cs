@@ -15,13 +15,16 @@ namespace ClientList
         public frmMain()
         {
             InitializeComponent();
+            dgvClientData.EnableHeadersVisualStyles = false;
+            dgvClientData.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
+            dgvClientData.ColumnHeadersDefaultCellStyle.BackColor = Color.DodgerBlue;
+            dgvClientData.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
 
         }
 
         private void dgvClientData_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            dgvClientData.SelectedCells[0].Style
-   = new DataGridViewCellStyle { ForeColor = Color.Yellow };
+        
         }
     }
 }
